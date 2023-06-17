@@ -5,7 +5,7 @@ import Text from "./app/components/Text"
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text text="Hello World!" />
+      <Text tx="hello" text="Hello World!" />
       <StatusBar style="auto" />
     </View>
   )
